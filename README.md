@@ -43,3 +43,7 @@ The `Production` folder contains one model:
 - `Production Model Pre Processing.ipynb`: 📝 Pre-processing notebook for the production model.
 - `Production SGD Regression Model.ipynb`: 🧠 Python notebook for creating the production model.
 - `production_scaler.pkl`: 📏 Scaler file for production data.
+
+## 📂 Datasets
+
+You can access the datasets used in this project [here](path/to/datasets/folder).
