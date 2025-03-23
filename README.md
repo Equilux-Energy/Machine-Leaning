@@ -38,4 +38,4 @@ The `Production` folder contains one model:
 
 ## 📂 Datasets
 
-You can access the datasets used in this project [here](path/to/datasets/folder).
+You can access the datasets used in this project [here](https://drive.google.com/drive/folders/1B29nNWgUKmkGmr6-ifKR0yMc1rHQwiMF?usp=sharing).
