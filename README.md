@@ -1,5 +1,10 @@
 # ⚡️ Peer-to-Peer Energy Trading Project: Machine Learning ⚡️
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-yellow?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-lightgrey?logo=scikit-learn&logoColor=white)
+
 Welcome to the Machine Learning section of the Peer-to-Peer Energy Trading Project! This repository contains the machine learning components that predict electricity consumption and production for efficient energy trading.
 
 ## 📁 Project Structure
